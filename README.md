@@ -1,5 +1,7 @@
 # Blood Cells Detection with Deployment
 
+link:- https://huggingface.co/spaces/sohal944/BCCD
+
 ## Overview
 
 This project uses deep learning for blood cell detection using a YOLOv10 (You Only Look Once) model fine-tuned on the **BCCD dataset**. The trained model is deployed as a web app using **Gradio** and hosted on **Hugging Face Spaces**. This application allows users to upload images of blood cell samples and receive instant predictions on the presence of various cell types.
