@@ -1,0 +1,5 @@
+gradio[oauth]==5.22.0
+onnxruntime==1.21.0
+opencv-python==4.11.0.86
+numpy==2.1.1
+uvicorn
